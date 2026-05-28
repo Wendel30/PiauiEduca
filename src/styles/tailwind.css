@@ -1,4 +1,6 @@
+/* Tailwind CSS Base Engine */
 @import 'tailwindcss' source(none);
 @source '../**/*.{js,ts,jsx,tsx}';
 
+/* Terceiros / Plugins adicionais */
 @import 'tw-animate-css';
