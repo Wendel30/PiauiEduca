@@ -1,3 +1,4 @@
+// componente de banner de aviso/alerta (Alert) - PiauiEduca+
 import * as React from "react";
 import { cva, type VariantProps } from "class-variance-authority";
 
