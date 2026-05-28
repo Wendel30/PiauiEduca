@@ -1,3 +1,4 @@
+// Orquestrador principal de rotas e estados da aplicação - PiauiEduca+
 import { useState } from 'react';
 import { Login } from './components/Login';
 import { Home } from './components/Home';
