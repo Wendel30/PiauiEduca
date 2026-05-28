@@ -1,3 +1,6 @@
+"use client";
+  
+  // componente de paginação
 import * as React from "react";
 import {
   ChevronLeftIcon,
