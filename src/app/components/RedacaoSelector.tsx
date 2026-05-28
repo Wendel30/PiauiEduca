@@ -1,3 +1,4 @@
+// Componente de seleção de temas de redação - PiauiEduca+
 import { ArrowLeft, BookOpen, CheckCircle } from 'lucide-react';
 
 interface RedacaoSelectorProps {
