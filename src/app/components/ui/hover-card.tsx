@@ -1,5 +1,6 @@
 "use client";
 
+// Componente de cartão de informações ao passar o mouse (HoverCard) - PiauiEduca+
 import * as React from "react";
 import * as HoverCardPrimitive from "@radix-ui/react-hover-card";
 
