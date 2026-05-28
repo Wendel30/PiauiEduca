@@ -1,5 +1,6 @@
 "use client";
 
+// Componente de conteúdo expansivel (Collapsible) - PiauiEduca+
 import * as CollapsiblePrimitive from "@radix-ui/react-collapsible";
 
 function Collapsible({
