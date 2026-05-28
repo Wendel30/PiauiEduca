@@ -56,3 +56,4 @@ Estudantes do estado do Piauí que desejam se preparar para:
 - SAEPI (Sistema de Avaliação Educacional do Piauí)
 - SAEB (Sistema de Avaliação da Educação Básica)
 - ENEM (Exame Nacional do Ensino Médio)
+- Redação 
