@@ -1,3 +1,4 @@
+// Ajustes e otimizações de estrutura - PiauiEduca
 import { useState } from 'react';
 import { Calendar, Clock, Plus, CheckCircle, Circle, BookOpen, Calculator, Globe, FlaskConical, Users, Lightbulb, ArrowLeft } from 'lucide-react';
 
