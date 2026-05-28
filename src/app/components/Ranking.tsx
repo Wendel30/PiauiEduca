@@ -1,3 +1,4 @@
+// Componente de exibição do ranking dos estudantes - PiauiEduca+
 import { Trophy, Award, Star, TrendingUp, ArrowLeft } from 'lucide-react';
 
 interface RankingUser {
