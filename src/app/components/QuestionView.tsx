@@ -1,3 +1,4 @@
+// Componente de gerenciamento e exibição do fluxo de questões - PiauiEduca+
 import { useState, useEffect } from 'react';
 import { ArrowLeft, Clock } from 'lucide-react';
 
