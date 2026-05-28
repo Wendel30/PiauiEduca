@@ -1,5 +1,6 @@
 "use client";
 
+// Componente de painel deslizante lateral ou inferior (Drawer) - PiauiEduca+
 import * as React from "react";
 import { Drawer as DrawerPrimitive } from "vaul";
 
