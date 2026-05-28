@@ -1,5 +1,5 @@
 "use client";
-
+// Componente de expansão (Accordion) reutilizável - PiauiEduca+
 import * as React from "react";
 import * as AccordionPrimitive from "@radix-ui/react-accordion";
 import { ChevronDownIcon } from "lucide-react";
