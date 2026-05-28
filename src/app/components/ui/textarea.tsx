@@ -1,5 +1,5 @@
+// Componente de área de texto 
 import * as React from "react";
-
 import { cn } from "./utils";
 
 function Textarea({ className, ...props }: React.ComponentProps<"textarea">) {
