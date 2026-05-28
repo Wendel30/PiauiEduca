@@ -1,3 +1,4 @@
+// Componente de seleção de disciplinas dos simulados - PiauiEduca+
 import { ArrowLeft, BookOpen, Calculator, Globe, FlaskConical, Users, Lightbulb } from 'lucide-react';
 
 interface SubjectSelectorProps {
