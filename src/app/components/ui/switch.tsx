@@ -1,5 +1,6 @@
 "use client";
 
+// Componente de interruptor (Switch) 
 import * as React from "react";
 import * as SwitchPrimitive from "@radix-ui/react-switch";
 
