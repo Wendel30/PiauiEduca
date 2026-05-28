@@ -1,5 +1,6 @@
 "use client";
 
+// Componente de controle deslizante (Slider) - PiauiEduca+
 import * as React from "react";
 import * as SliderPrimitive from "@radix-ui/react-slider";
 
