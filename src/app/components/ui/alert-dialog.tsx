@@ -1,5 +1,6 @@
 "use client";
 
+// Componente de diálogo de alerta (AlertaDialog) - PiauiEduca+
 import * as React from "react";
 import * as AlertDialogPrimitive from "@radix-ui/react-alert-dialog";
 
