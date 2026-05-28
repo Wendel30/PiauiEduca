@@ -1,3 +1,4 @@
+/* Configuração de Temas e Tipografia Base - PiauiEduca */ 
 @custom-variant dark (&:is(.dark *));
 
 :root {
