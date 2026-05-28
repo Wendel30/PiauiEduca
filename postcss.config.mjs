@@ -13,3 +13,5 @@
  * Otherwise, you can leave this file empty.
  */
 export default {}
+
+/* Configuração adicional do projeto feita por Wendel */
