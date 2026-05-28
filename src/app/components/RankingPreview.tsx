@@ -1,3 +1,4 @@
+// Componente de pré-visualização do ranking - PiauiEduca+ 
 import { Trophy, ChevronRight } from 'lucide-react';
 
 interface RankingPreviewProps {
