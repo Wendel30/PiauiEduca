@@ -1,3 +1,4 @@
+// Componente de exibição de resultados de simulados - PiauiEduca+
 import { useState } from 'react';
 import { Trophy, Clock, Target, TrendingUp, Home, RotateCcw, CheckCircle2, XCircle, ChevronDown, ChevronUp } from 'lucide-react';
 import { Question, UserAnswer } from './QuestionView';
