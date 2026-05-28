@@ -1,3 +1,4 @@
+// Seletor de avaliações oficiais e simulados - PiauiEduca
 import { ArrowLeft, GraduationCap, School, Award, FileText } from 'lucide-react';
 
 interface ExamSelectorProps {
