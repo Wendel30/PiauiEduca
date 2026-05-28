@@ -1,5 +1,6 @@
 "use client";
 
+// Componente de barra de progresso 
 import * as React from "react";
 import * as ProgressPrimitive from "@radix-ui/react-progress";
 
