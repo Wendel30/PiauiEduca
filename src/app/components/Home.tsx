@@ -1,3 +1,4 @@
+// Painel principal do estudante - PiauiEduca+
 import { useState } from 'react';
 import { BookOpen, Trophy, Target, Calendar, User } from 'lucide-react';
 import { RankingPreview } from './RankingPreview';
