@@ -1,5 +1,6 @@
 "use client";
 
+// Componente de carrocel de slides (Carousel) - PiauiEduca+
 import * as React from "react";
 import useEmblaCarousel, {
   type UseEmblaCarouselType,
