@@ -1,5 +1,6 @@
 "use client";
 
+// Componente de área de rolagem 
 import * as React from "react";
 import * as ScrollAreaPrimitive from "@radix-ui/react-scroll-area";
 
