@@ -1,5 +1,6 @@
 "use client";
 
+// Componente de imagem de perfil do usuário (Avatar) - PiauiEduca+
 import * as React from "react";
 import * as AvatarPrimitive from "@radix-ui/react-avatar";
 
