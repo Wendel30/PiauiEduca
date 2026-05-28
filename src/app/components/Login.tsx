@@ -1,3 +1,4 @@
+// Autenticação e registro de estudantes - PiauiEduca+
 import { useState } from 'react';
 import { BookOpen, Mail, Lock, School, MapPin, ArrowRight, Eye, EyeOff } from 'lucide-react';
 
