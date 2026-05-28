@@ -1,3 +1,4 @@
+//Seletor de modo de estudo (Praticar, Simulado ou Revisar) - PiauiEduca+
 import { ArrowLeft, Brain, Timer, TrendingUp } from 'lucide-react';
 
 interface ModeSelectorProps {
