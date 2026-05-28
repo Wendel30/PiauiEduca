@@ -1,3 +1,4 @@
+// Componente de edição de redações - PiauiEduca+
 import { useState } from 'react';
 import { ArrowLeft, FileText, Send, Info } from 'lucide-react';
 
