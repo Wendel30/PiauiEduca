@@ -1,5 +1,5 @@
 "use client";
-
+// Componente para controle de proporção de imagens/vídeos (AspectRatio) - PiauiEduca+
 import * as AspectRatioPrimitive from "@radix-ui/react-aspect-ratio";
 
 function AspectRatio({
