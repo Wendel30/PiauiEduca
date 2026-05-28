@@ -1,5 +1,6 @@
 "use client";
 
+// Componente de etrada de código OTP (One-time Password) - PiauiEduca+
 import * as React from "react";
 import { OTPInput, OTPInputContext } from "input-otp";
 import { MinusIcon } from "lucide-react";
