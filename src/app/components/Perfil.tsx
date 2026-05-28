@@ -1,3 +1,4 @@
+// Painel lateral de visualização e edição do perfil do usuario - PiauiEduca+
 import { X, User, Mail, School, MapPin, GraduationCap, Settings, Edit, LogOut } from 'lucide-react';
 
 interface PerfilProps {
