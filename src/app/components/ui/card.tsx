@@ -1,3 +1,4 @@
+// Componente de bloco de conteúdo (Card) - PiauiEduca+
 import * as React from "react";
 
 import { cn } from "./utils";
