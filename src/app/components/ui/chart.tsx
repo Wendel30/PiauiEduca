@@ -1,5 +1,6 @@
 "use client";
 
+// Componente de abstração para gráficos (chart) - PiauiEduca+
 import * as React from "react";
 import * as RechartsPrimitive from "recharts";
 
