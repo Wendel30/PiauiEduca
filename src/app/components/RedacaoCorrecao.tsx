@@ -1,3 +1,4 @@
+// Componente de exibição da correção de redações - PiauiEduca+
 import { Trophy, CheckCircle, AlertCircle, TrendingUp, Home, RotateCcw } from 'lucide-react';
 
 interface RedacaoCorrecaoProps {
